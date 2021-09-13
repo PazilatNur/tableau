@@ -14,6 +14,8 @@ The purpose of this analysis is to through effecctive visualizations to answer k
 
 You can access the analysis report here: 
 
+https://public.tableau.com/app/profile/pazilat7634/viz/Challange_16313748642060/Bike-SharingAnalysis?publish=yes
+
 
 ## Summary:
 
