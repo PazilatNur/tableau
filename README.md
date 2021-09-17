@@ -1,4 +1,4 @@
-# Bike-Sharinf Analysis
+# Bike-Sharing Analysis
 ## Overview :
 
 The purpose of this analysis is to through effecctive visualizations to answer key questions of whether it's a viable plan to open bike-sharing bussiness in Des Moines.
@@ -7,7 +7,7 @@ The purpose of this analysis is to through effecctive visualizations to answer k
     - How many number of trips recorded by each user types? (Short-Term Customers to Annual Subscribers)
     - What is the gender distribution among bike riders?
     - What is the peak usage hours for the month of August?
-    - 
+  
 
 
 ## Results:
